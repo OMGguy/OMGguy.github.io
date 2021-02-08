@@ -4,6 +4,8 @@
   font-family: Montserrat;
   text-align: center;
   color: white;
+  animation-name: headeranimate;
+  animation-duration: 1s;
 }
 #pmain{
  font-family: Open Sans;
@@ -21,3 +23,4 @@ background-color: black;
  color: white;
  font-size: 30px;
 }
+
