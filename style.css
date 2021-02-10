@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
 #mainhead{
-  font-family: Montserrat;
+  font-family: Raleway;
   text-align: center;
   color: white;
-  animation-name: headeranimate;
-  animation-duration: 1s;
 }
 #pmain{
  font-family: Open Sans;
